@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
 
 const Error = () => {
   return (
-    <div>Error</div>
-  )
-}
+    <div className="grid h-screen place-items-center bg-red-900 text-3xl font-semibold text-red-100">
+      Error
+    </div>
+  );
+};
 
-export default Error
+export default Error;
