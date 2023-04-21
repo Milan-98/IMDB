@@ -18,8 +18,7 @@ To run this application on your local machine, follow the steps below:
 
 ## Features
 
-- Users can search for movies by title
-- Users can filter movies by type (e.g. movie, series, episode)
+- Users can see movies by type (e.g. drama, comedy, horror)
 - Users can see detailed information about a movie by clicking on it
 - Users can see similar movies to the one they are viewing
 - The application is responsive and can be used on mobile devices
