@@ -15,9 +15,7 @@ Check out the live demo of the application [here](https://imdb-india.netlify.app
 
 
 ![Vite + React (6)](https://user-images.githubusercontent.com/114464208/233539380-945e94c1-49c9-456c-aa78-e9906416b027.png)
-![Vite + React (7)](https://user-images.githubusercontent.com/114464208/233539386-329bcc64-79ac-4b41-9142-d78051358441.png)
 
-![Vite + React (10)](https://user-images.githubusercontent.com/114464208/233539446-39c7ac0c-afde-4538-bb22-9f5097fbd92f.png)
 
 ![Vite + React (8)](https://user-images.githubusercontent.com/114464208/233539424-8a0f950b-a5a5-4f42-888f-f60dee9dac84.png)
 ![Vite + React (9)](https://user-images.githubusercontent.com/114464208/233539440-43f4e6af-d37b-4c8d-8b1c-dce6b86488b5.png)
