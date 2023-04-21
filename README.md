@@ -8,7 +8,6 @@ Check out the live demo of the application [here](https://imdb-india.netlify.app
 
 ## ScreenShots
 
-![Vite + React (3)](https://user-images.githubusercontent.com/114464208/233539225-86022d83-ce6f-4728-816d-9a37d20e7ad3.png)
 ![Vite + React (4)](https://user-images.githubusercontent.com/114464208/233539294-25eec7ed-ad10-451d-ae19-4abd8596fe73.png)
 
 ![Vite + React (5)](https://user-images.githubusercontent.com/114464208/233539301-a329c228-bb5d-4059-9131-c9d9031ea088.png)
