@@ -4,7 +4,7 @@ This is a clone of the IMDB website built using React JavaScript, React Router, 
 
 ## Demo
 
-Check out the live demo of the application [here](https://imdb-clone-milan.netlify.app/).
+Check out the live demo of the application [here](https://imdb-india.netlify.app/).
 
 ## Installation
 
