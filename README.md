@@ -4,7 +4,7 @@ This is a clone of the IMDB website built using React JavaScript, React Router, 
 
 ## Demo
 
-Check out the live demo of the application [here](https://imdb-india.netlify.app/).
+Check out the live demo of the application [here](https://imdb-xi-bay.vercel.app/).
 
 ## ScreenShots
 ![Vite + React (5)](https://user-images.githubusercontent.com/114464208/233539301-a329c228-bb5d-4059-9131-c9d9031ea088.png)
